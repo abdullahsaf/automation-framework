@@ -11,11 +11,11 @@ Ensure you have the following installed:
 ## **Steps to run the test**
 **Clone the Repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/abdullahsaf/automation-framework.git
    ```
 **Navigate to the Project Directory**
    ```bash
-   cd <project_directory>
+   cd automation-framework
    ```
 **Run the cucumber project locally**
    ```bash
